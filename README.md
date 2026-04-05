@@ -30,7 +30,7 @@ README.md
 ---
 
 ## 📁 GitHub Repository
-https://github.com/kunalbagkar39/PRODIGY_WD_02.git
+https://github.com/utkarshshetye2005/PRODIGY_WD_02.git
 
 ---
 
